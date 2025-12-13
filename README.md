@@ -23,9 +23,3 @@ Flask · REST APIs · Node.js · Authentication (JWT) · PostgreSQL · MySQL · 
 
 **Cloud & Development**
 AWS · Git · GitHub · Docker · Jupyter · VS Code · Unit Testing
-
----
-
-**Contact**  
-Email: aadisrivastava@gmail.com  
-LinkedIn: [linkedin.com/in/aadi-srivastava-link](http://www.linkedin.com/in/aadi-srivastava-link)
