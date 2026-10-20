@@ -1,7 +1,7 @@
 # Aadi Srivastava 
 
 Class of 2026 · **Virginia Tech**  
-Major: **Computational Modeling & Data Analytics**  
+Major: **Data Science**  
 Minors: **Computer Science & Mathematics**  
 ---
 
